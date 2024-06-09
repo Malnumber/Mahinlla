@@ -7,7 +7,7 @@ link : [facebook](https://www.facebook.com/alfajuddin.alfajuddin.58?mibextid=ZbW
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [MAHIN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
 
 ## CONFIG AND CUSTOM
 
